@@ -1,3 +1,2 @@
-# DS4A_Team9_School_Dropout_Colombia
-School Dropout in public schools detection in Colombia using Data Science / ML
-new part added by jean - 2020
+# DS4A_Team9_Social_Distancing_Detection_Colombia
+Using computer vision to detect social distancing compliance in public spaces - 2020
